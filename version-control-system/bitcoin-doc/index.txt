@@ -2,3 +2,21 @@ What is Bitcoin?
 
 Bitcoin es una criptomoneda revolucionaria que nació en 2009 como una respuesta a las limitaciones y centralización 
 de los sistemas financieros tradicionales.
+
+La tegnologia de Blockchain de Bitcoin
+
+La tecnología blockchain de Bitcoin es como un libro de contabilidad digital que está distribuido y compartido
+ entre miles de computadoras alrededor del mundo. Cada vez que alguien realiza una transacción (por ejemplo, enviar o 
+ recibir bitcoins), esta transacción se registra en un "bloque" de información, que contiene los detalles de la 
+ transacción, como el emisor, el receptor y la cantidad de bitcoins transferidos.
+
+Este bloque es luego añadido a una cadena de bloques ya existentes, formando una secuencia inmutable.
+ Para asegurarse de que la información sea segura, cada bloque tiene un "hash" criptográfico único, que es como una
+  huella digital que verifica su autenticidad. Además, cada bloque depende del bloque anterior, lo que hace 
+  extremadamente difícil modificar información sin alterar todos los bloques anteriores, lo que sería casi 
+  imposible debido al enorme poder de procesamiento necesario.
+
+En resumen, la blockchain de Bitcoin actúa como un sistema de registro público y transparente, 
+donde las transacciones son verificadas y confirmadas por una red de computadoras (llamadas nodos), 
+eliminando la necesidad de una autoridad central, como un banco. 
+Es descentralizada, segura, y extremadamente difícil de hackear o manipular.
