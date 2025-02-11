@@ -20,3 +20,7 @@ En resumen, la blockchain de Bitcoin actúa como un sistema de registro público
 donde las transacciones son verificadas y confirmadas por una red de computadoras (llamadas nodos), 
 eliminando la necesidad de una autoridad central, como un banco. 
 Es descentralizada, segura, y extremadamente difícil de hackear o manipular.
+
+En resumen, las criptomonedas ofrecen beneficios como la independencia financiera, 
+seguridad avanzada, bajos costos de transacción y acceso global, 
+lo que las hace una opción atractiva para muchas personas.
