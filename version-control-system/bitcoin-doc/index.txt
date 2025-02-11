@@ -1,1 +1,4 @@
 What is Bitcoin?
+
+Bitcoin es una criptomoneda revolucionaria que nació en 2009 como una respuesta a las limitaciones y centralización 
+de los sistemas financieros tradicionales.
