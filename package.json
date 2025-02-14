@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/josepnc/devlauch-josep-nc/issues"
   },
-  "homepage": "https://github.com/josepnc/devlauch-josep-nc#readme"
+  "homepage": "https://github.com/josepnc/devlauch-josep-nc#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
